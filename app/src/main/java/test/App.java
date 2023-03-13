@@ -8,7 +8,6 @@ import com.indvd00m.ascii.render.api.ICanvas;
 import com.indvd00m.ascii.render.api.IContextBuilder;
 import com.indvd00m.ascii.render.api.IRender;
 import com.indvd00m.ascii.render.elements.PseudoText;
-import com.indvd00m.ascii.render.elements.Rectangle;
 
 public class App {
     public String getGreeting() {
